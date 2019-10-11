@@ -1,0 +1,15 @@
+id,match,is_same,pairs
+molokoloco <molokoloco@gmail.com>,@bfishadow <julien.gong@gmail.com>,FALSE,molokoloco <molokoloco@gmail.com>;@bfishadow <julien.gong@gmail.com>,0
+vimalavinisha <vinisha.a@ameexusa.com>,Vimala <vjampala@cs.washington.edu>,FALSE,vimalavinisha <vinisha.a@ameexusa.com>;Vimala <vjampala@cs.washington.edu>,0
+andrealbert <andre.albert82@googlemail.com>,Andre Albert <andre.albert82@googlemail.com>,FALSE,andrealbert <andre.albert82@googlemail.com>;Andre Albert <andre.albert82@googlemail.com>,1
+Reed <alan-reed@users.noreply.github.com>,Alan Reed <aarreedd@users.noreply.github.com>,FALSE,Reed <alan-reed@users.noreply.github.com>;Alan Reed <aarreedd@users.noreply.github.com>,1
+marcel.cremer <marcel.cremer@ck7.de>,Marcel Cremer <marcel.cremer@ck7.de>,FALSE,marcel.cremer <marcel.cremer@ck7.de>;Marcel Cremer <marcel.cremer@ck7.de>,1
+Roman Muravchuk <Romario5@users.noreply.github.com>,Roman <eas.roma@gmail.com>,FALSE,Roman Muravchuk <Romario5@users.noreply.github.com>;Roman <eas.roma@gmail.com>,0
+Tiago Simões Batista <tiago-s-batista@ext.ptin.corppt.com>,Tiago Batista <a19944@gmail.com>,FALSE,Tiago Simões Batista <tiago-s-batista@ext.ptin.corppt.com>;Tiago Batista <a19944@gmail.com>,0
+ben-duo <ben@duosecurity.com>,Ben Muray <ben@duosecurity.com>,FALSE,ben-duo <ben@duosecurity.com>;Ben Muray <ben@duosecurity.com>,1
+Andrew Clark <agcur@rogers.com>,Andrew <andrew@lassocrm.com>,FALSE,Andrew Clark <agcur@rogers.com>;Andrew <andrew@lassocrm.com>,0
+johanclasson <johan@classon.eu>,Johan Classon <johan.classon@nethouse.se>,FALSE,johanclasson <johan@classon.eu>;Johan Classon <johan.classon@nethouse.se>,1
+mikkel <mikkel@debian>,Michael King <joking777@gmail.com>,FALSE,mikkel <mikkel@debian>;Michael King <joking777@gmail.com>,0
+lzhang <lzhang>,limin <limin@limin-THINK>,FALSE,lzhang <lzhang>;limin <limin@limin-THINK>,0
+Jisan Zaman <Jzaman@wesleyan.edu>,JISAN <jzaman@bstonetech.com>,FALSE,Jisan Zaman <Jzaman@wesleyan.edu>;JISAN <jzaman@bstonetech.com>,1
+Fedor Suprychev <unno@unno.ru>,Father Frodo <unno@unno.ru>,FALSE,Fedor Suprychev <unno@unno.ru>;Father Frodo <unno@unno.ru>,0
