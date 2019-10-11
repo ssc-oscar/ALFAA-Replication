@@ -4,22 +4,38 @@
 This repository contains data and codes for the prototype based on the framework ALFAA (Active Learning Fingerprint-based Anti Aliasing) to correct developer identity errors in version control data. The details of this framework can be found at https://arxiv.org/abs/1901.03363
 
 ### Key Pieces of Data
-crossRaterRelibility.clean.txt - Data provided to raters to create labels. Data contains user ID and company affiliations of developers - external information that helped in manual classification. These labels are used to compute agreement between raters.
+
+* clean version of best data (golden dataset) used for training
+
+* full data on OS developers
+  - d2v data
+  - tz data
+  - file similarity
+
+* full data on developers in nine OSS ecosystems (Chris) 
+  - files similarity
+  - tz ?
+  - d2v ?
 
 ### Code  
 
+The code to produce the models on golden dataset
 
-rf.r - Various debugging/exploratory code used to build random forest models, predict and 
-       cross-validate. Also icludes experiments to understand effects of augmenting fingerprint 
-       metrics to string similarity. It is primarily for the record keeping.
+* skinny model (no fps)
+* full model  (three fps)
 
-.pbs, test_pmclust.R, test_pkmeans.r - codes for running on distributed environment (TITAN)
+The utility codes
+
+* code for transitive closure
+
+* code to match developers that someone provides an input (skinny model)
 
 ### Models
 
-#To be uploaded
-rfmodelsFullP7.c.RData - random forest model 
-HOMONYM_RFMODELS - Contains all random forest models built using fingerprint (files, projects, text) metrics used for cross validation.
+* skinny
+
+* full (three fps)
+
  
 
 
