@@ -31,9 +31,6 @@ Date:   Wed Nov 15 20:54:40 2017 +0300
 
 
 
-[$+j <lust4life.jun@gmail.com> from 001f1d6a706ddc497ec615dee43c35074d3d5841](https://github.com/lust4life/lust4life.github.io/commit/001f1d6a706ddc497ec615dee43c35074d3d5841)
-[$iD <plbsid@gmail.com> from d9eb19d2d55b7989057630c96d19e83cc89f9853](https://github.com/ddeboer/imap/commit/d9eb19d2d55b7989057630c96d19e83cc89f9853)
-[%%MA group shared <ma-svc@lime.ebi.ac.uk> from 3dcbfe5c02dc052a4ba188243f82afef6a75f79b](https://github.com/ddtxra/atlas/commit/3dcbfe5c02dc052a4ba188243f82afef6a75f79b)
 [Alexey Khudyakov <alexey.skladnoy@gmail.com> from 72f096b08395be313366d57860b1be26021a527d](https://github.com/Shimuuar/fixed-vector-hetero/commit/72f096b08395be313366d57860b1be26021a527d)
 [(13:59) Alex Roberts <bse@gedit.pn.org> from 8c1604a32e2f0d29891fb3e19128486d3783a53c](https://github.com/87priyanka/gedit/commit/8c1604a32e2f0d29891fb3e19128486d3783a53c)
 [(14:57) Alex Roberts <bse@gedit.pn.org> from b8ae48bba50fe22c98c185ba82bec843fb266a50](https://github.com/87priyanka/gedit/commit/b8ae48bba50fe22c98c185ba82bec843fb266a50)
